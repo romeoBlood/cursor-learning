@@ -93,7 +93,7 @@ tags:
 
 ## 🔗 関連ノート
 
-- [[cursorとclaude_codeの違い（新）]]
+- [[CursorとClaude_Codeの違い]]
 
 ---
 
