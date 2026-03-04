@@ -1,0 +1,17 @@
+# Obsidian workspace / cache
+.obsidian/workspace*
+.obsidian/cache/
+.obsidian/graph.json
+.obsidian/appearance.json
+.obsidian/hotkeys.json
+
+# Obsidian plugins (user specific)
+.obsidian/plugins/
+
+# OS junk
+.DS_Store
+Thumbs.db
+
+# Temporary files
+*.tmp
+*.bak
